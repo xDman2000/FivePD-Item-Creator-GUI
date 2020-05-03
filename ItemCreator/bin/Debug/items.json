@@ -1,0 +1,26 @@
+[
+  {
+    "name": "xd",
+    "isIllegal": true,
+    "multiplier": 1,
+    "itemLocation": 0
+  },
+  {
+    "name": "y",
+    "isIllegal": true,
+    "multiplier": 2,
+    "itemLocation": 2
+  },
+  {
+    "name": "test",
+    "isIllegal": false,
+    "itemLocation": 0,
+    "multiplier": 3
+  },
+  {
+    "name": "test2",
+    "isIllegal": false,
+    "itemLocation": 1,
+    "multiplier": 2
+  }
+]
